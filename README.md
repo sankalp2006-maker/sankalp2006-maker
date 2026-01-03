@@ -5,7 +5,7 @@ I'm a **Frontend Developer** and **AI/ML Enthusiast**. I love building clean use
 ### 🛠 Tech Stack
 - **Web Development:** HTML5, CSS3, JavaScript (ES6+)
 - **AI/ML:** Python, Machine Learning, Data Analytics
-- **Tools:** Git, GitHub, VS Code, MacOS (M2 Air)
+- **Tools:** Git, GitHub, VS Code,
 
 ### 🎓 Experience & Internships
 - **AI/ML Intern | Edunet Foundation**
