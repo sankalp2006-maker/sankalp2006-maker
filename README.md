@@ -22,6 +22,9 @@ I'm a **Frontend Developer** and **AI/ML Enthusiast**. I love building clean use
 
 ---
 
+
 ### 📊 GitHub Stats
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp2006-maker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp2006-maker&layout=compact&theme=radical)
+
+![Sankalp's Stats](https://github-readme-streak-stats.herokuapp.com/?user=sankalp2006-maker&theme=dark)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankalp2006-maker&theme=dark)
