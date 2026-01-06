@@ -4,7 +4,7 @@ I'm a **Frontend Developer** and **AI/ML Enthusiast**. I love building clean use
 
 ### 🛠 Tech Stack
 - **Web Development:** HTML5, CSS3, JavaScript (ES6+)
-- **AI/ML:** Python, Machine Learning, Data Analytics
+- **AI/ML:** Python, Machine Learning, Google Gemini API
 - **Tools:** Git, GitHub, VS Code,
 
 ### 🎓 Experience & Internships
